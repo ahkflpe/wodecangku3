@@ -1,0 +1,254 @@
+{
+    "institutions": [
+        {
+            "name": "Berkshire Hathaway Inc",
+            "cik": "0001067983",
+            "description": "沃伦·巴菲特的投资公司",
+            "type": "company"
+        },
+        {
+            "name": "Bridgewater Associates, LP",
+            "cik": "0001350694",
+            "description": "雷·达里奥创立的全球最大对冲基金",
+            "type": "hedge_fund"
+        },
+        {
+            "name": "Renaissance Technologies LLC",
+            "cik": "0001037389",
+            "description": "詹姆斯·西蒙斯创立的量化对冲基金",
+            "type": "hedge_fund"
+        },
+        {
+            "name": "BlackRock Inc.",
+            "cik": "0001364742",
+            "description": "全球最大的资产管理公司",
+            "type": "asset_manager"
+        },
+        {
+            "name": "Vanguard Group Inc",
+            "cik": "0000102909",
+            "description": "全球第二大资产管理公司",
+            "type": "asset_manager"
+        },
+        {
+            "name": "State Street Corporation",
+            "cik": "0000093751",
+            "description": "全球第三大资产管理公司",
+            "type": "asset_manager"
+        },
+        {
+            "name": "Morgan Stanley",
+            "cik": "0000895421",
+            "description": "摩根士丹利投资管理",
+            "type": "bank"
+        },
+        {
+            "name": "Goldman Sachs Group Inc",
+            "cik": "0000886982",
+            "description": "高盛集团",
+            "type": "bank"
+        },
+        {
+            "name": "Tiger Global Management LLC",
+            "cik": "0001393311",
+            "description": "老虎环球基金",
+            "type": "hedge_fund"
+        },
+        {
+            "name": "Millennium Management LLC",
+            "cik": "0001103804",
+            "description": "以色列·英格兰德创立的对冲基金",
+            "type": "hedge_fund"
+        },
+        {
+            "name": "Citadel Advisors LLC",
+            "cik": "0001166559",
+            "description": "肯·格里芬创立的对冲基金",
+            "type": "hedge_fund"
+        },
+        {
+            "name": "Two Sigma Investments, LP",
+            "cik": "0001440259",
+            "description": "量化对冲基金",
+            "type": "hedge_fund"
+        },
+        {
+            "name": "D. E. Shaw & Co., L.P.",
+            "cik": "0001061769",
+            "description": "大卫·肖创立的量化对冲基金",
+            "type": "hedge_fund"
+        },
+        {
+            "name": "Point72 Asset Management, L.P.",
+            "cik": "0001756111",
+            "description": "史蒂夫·科恩的家族办公室",
+            "type": "family_office"
+        },
+        {
+            "name": "Third Point LLC",
+            "cik": "0001512409",
+            "description": "丹·勒布创立的对冲基金",
+            "type": "hedge_fund"
+        },
+        {
+            "name": "Pershing Square Capital Management, L.P.",
+            "cik": "0001540231",
+            "description": "比尔·阿克曼创立的对冲基金",
+            "type": "hedge_fund"
+        },
+        {
+            "name": "Carl C. Icahn",
+            "cik": "0001048586",
+            "description": "卡尔·伊坎，激进投资者",
+            "type": "individual"
+        },
+        {
+            "name": "Soros Fund Management LLC",
+            "cik": "0001023948",
+            "description": "乔治·索罗斯的家族办公室",
+            "type": "family_office"
+        },
+        {
+            "name": "FMR LLC (Fidelity)",
+            "cik": "0000310709",
+            "description": "富达投资",
+            "type": "asset_manager"
+        },
+        {
+            "name": "Capital Research Global Investors",
+            "cik": "0001003183",
+            "description": "资本集团",
+            "type": "asset_manager"
+        },
+        {
+            "name": "T. Rowe Price Associates, Inc.",
+            "cik": "0000081789",
+            "description": "普信集团",
+            "type": "asset_manager"
+        },
+        {
+            "name": "JPMorgan Chase & Co.",
+            "cik": "0000019617",
+            "description": "摩根大通",
+            "type": "bank"
+        },
+        {
+            "name": "Wellington Management Group LLP",
+            "cik": "0000103497",
+            "description": "惠灵顿管理公司",
+            "type": "asset_manager"
+        },
+        {
+            "name": "Hillhouse Capital Management, Ltd.",
+            "cik": "0001665404",
+            "description": "高瓴资本 - 张磊创立的投资公司",
+            "type": "hedge_fund",
+            "region": "china"
+        },
+        {
+            "name": "Sequoia Capital China Advisors, Ltd.",
+            "cik": "0001395703",
+            "description": "红杉资本中国",
+            "type": "venture_capital",
+            "region": "china"
+        },
+        {
+            "name": "China Investment Corporation",
+            "cik": "0001423052",
+            "description": "中投公司 - 中国主权财富基金",
+            "type": "sovereign_fund",
+            "region": "china"
+        },
+        {
+            "name": "Temasek Holdings (Private) Limited",
+            "cik": "0001040278",
+            "description": "淡马锡控股 - 新加坡主权基金",
+            "type": "sovereign_fund",
+            "region": "asia"
+        },
+        {
+            "name": "GIC Private Limited",
+            "cik": "0001332252",
+            "description": "新加坡政府投资公司",
+            "type": "sovereign_fund",
+            "region": "asia"
+        },
+        {
+            "name": "Greenoaks Capital",
+            "cik": "0001755361",
+            "description": "Greenoaks资本",
+            "type": "hedge_fund",
+            "region": "asia"
+        },
+        {
+            "name": "China AMC",
+            "cik": "0001090735",
+            "description": "华夏基金",
+            "type": "asset_manager",
+            "region": "china"
+        },
+        {
+            "name": "Alibaba Group Holding Ltd",
+            "cik": "0001577552",
+            "description": "阿里巴巴集团",
+            "type": "company",
+            "region": "china"
+        },
+        {
+            "name": "Tencent Holdings Ltd",
+            "cik": "0001326801",
+            "description": "腾讯控股",
+            "type": "company",
+            "region": "china"
+        },
+        {
+            "name": "JD.com, Inc.",
+            "cik": "0001519791",
+            "description": "京东集团",
+            "type": "company",
+            "region": "china"
+        },
+        {
+            "name": "Baidu, Inc.",
+            "cik": "0001329099",
+            "description": "百度",
+            "type": "company",
+            "region": "china"
+        },
+        {
+            "name": "PDD Holdings Inc.",
+            "cik": "0001800969",
+            "description": "拼多多",
+            "type": "company",
+            "region": "china"
+        },
+        {
+            "name": "SoftBank Group Corp.",
+            "cik": "0001045623",
+            "description": "软银集团 - 孙正义",
+            "type": "venture_capital",
+            "region": "asia"
+        },
+        {
+            "name": "SoftBank Vision Fund",
+            "cik": "0001712523",
+            "description": "软银愿景基金",
+            "type": "venture_capital",
+            "region": "asia"
+        },
+        {
+            "name": "Li Ka Shing Foundation",
+            "cik": "0001492603",
+            "description": "李嘉诚基金会",
+            "type": "family_office",
+            "region": "china"
+        },
+        {
+            "name": "Horizons Ventures",
+            "cik": "0001492602",
+            "description": "维港投资 - 李嘉诚旗下",
+            "type": "venture_capital",
+            "region": "china"
+        }
+    ]
+}
